@@ -77,7 +77,7 @@ Raster values were extracted for each plotted point across all 11 spectral bands
 The point feature class with spectral values was exported as a **shapefile**, forming the training dataset.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d6ee7cc-0fd7-4d06-9b77-cddb27e75a4e" width="100%" />
+  <img src="https://github.com/user-attachments/assets/4d6ee7cc-0fd7-4d06-9b77-cddb27e75a4e" width="80%" />
 </p>
 
 ---
