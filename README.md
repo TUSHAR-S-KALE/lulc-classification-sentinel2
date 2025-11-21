@@ -33,7 +33,7 @@ G[Area Distribution Visualization]
 
 | **Original Sentinel-2 Surface Image** | **LULC Classified Output** |
 |---------------------------------------|----------------------------|
-| ![Input](https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e) | ![Output](https://github.com/user-attachments/assets/f60a8017-5255-4d5b-a4a3-c558daac8f55) |
+| <img src="https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e" width="100%"> | <img src="https://github.com/user-attachments/assets/f60a8017-5255-4d5b-a4a3-c558daac8f55" width="100%"> |
 
 ---
 
