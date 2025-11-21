@@ -32,10 +32,14 @@ G[Area Distribution Visualization]
 # 🛰 Original Image → LULC Classified Image
 
 ### **Original Sentinel-2 Surface Image**
-![Original Image](https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e" width="100%" />
+</p>
 
 ### **LULC Classified Output**
-![LULC Image](https://github.com/user-attachments/assets/30cd2f01-d338-41be-a647-263f5eaa5250)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30cd2f01-d338-41be-a647-263f5eaa5250" width="100%" />
+</p>
 
 ---
 
@@ -53,22 +57,28 @@ The study area consists of regions in **western Pune** and **southeastern Navi M
 - Out of the 12 available spectral bands, 11 were utilized for the analysis
 - Atmospheric corrections applied using Copernicus browser tools
 
-**True Color Image (Band 4, 3, 2):**  
-![Sentinel TCI](https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e)
+**True Color Image (Band 4, 3, 2):**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fad8499a-6179-4617-b8be-47252fea306e" width="100%" />
+</p>
 
 ---
 
 ### ✔ 3. **Raster Value Extraction in ArcGIS Pro**
 Raster values were extracted for each plotted point across all 11 spectral bands.
 
-![Raster Extraction](https://github.com/user-attachments/assets/8de985c4-1141-417d-ba54-86752734d692)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8de985c4-1141-417d-ba54-86752734d692" width="100%" />
+</p>
 
 ---
 
 ### ✔ 4. **Supervised Dataset (Shapefile Output)**
 The point feature class with spectral values was exported as a **shapefile**, forming the training dataset.
 
-![Supervised Dataset](https://github.com/user-attachments/assets/4d6ee7cc-0fd7-4d06-9b77-cddb27e75a4e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d6ee7cc-0fd7-4d06-9b77-cddb27e75a4e" width="100%" />
+</p>
 
 ---
 
